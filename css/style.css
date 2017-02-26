@@ -1,0 +1,72 @@
+body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #654C4F;
+}
+
+p {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.card {
+  text-align:center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #654C4F;
+  background-color: white;
+  margin: 20px 0;
+}
+
+.card-no-padding {
+  text-align:center;
+}
+
+.header {
+  padding-bottom: 10px;
+  background-image: url("../img/pattern1.jpeg");
+  height: 120px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.brandimage {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.sweetcakes-pic {
+  transform: rotate(90deg);
+}
+
+.card-footer {
+  text-align: center;
+  background-color: #EEE;
+  padding: 10px;
+}
+
+.big {font-size: 26px}
+
+.catpoetry {
+  color: #654C4F;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.fa {
+  color: grey;
+  font-kerning: auto;
+}
+
+.fireplace {
+  margin: 25px;
+  margin-top: 40px;
+}
+
+.navbar {
+  background: #85C1E9;
+  margin-bottom: 20px;
+}
